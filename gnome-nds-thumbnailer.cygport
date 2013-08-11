@@ -1,0 +1,10 @@
+inherit gnome2
+
+NAME="gnome-nds-thumbnailer"
+VERSION=3.0.0
+RELEASE=1
+CATEGORY="GNOME"
+REQUIRES="libgdk_pixbuf2.0_0 libglib2.0_0"
+SUMMARY="Thumbnailer for Nintendo DS ROM files"
+DESCRIPTION="Thumbnailer for Nintendo DS files, which contain an embedded 16
+colours, 32x32 icon, which helps identify the ROM files."

@@ -1,5 +1,0 @@
-category: Gnome
-requires: libgdk_pixbuf2.0_0 libglib2.0_0
-sdesc: "Thumbnailer for Nintendo DS ROM files"
-ldesc: "Thumbnailer for Nintendo DS files, which contain an embedded 16 
-colours, 32x32 icon, which helps identify the ROM files."
